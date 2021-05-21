@@ -71,8 +71,8 @@ email: "patricianabisubi6@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Patricia Nabisubi is a Bioinformatics Trainee at the African Center of Excellence in Bioinformatics(ACE), she is an experienced laboratory technologist and a bioinformatician. She began her career with ACE, gaining unparalleled experience in the bioinformatics and virtual reality content development. Driven by her love for genomics and technology, she takes pride in providing the best bioinformatics services possible. As a Bioinformatician, her goals include eradication of Tuberculosis and fighting breast cancer. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to her primary job functions, Patricia has been recognized by MUIIPLUS as a strategic intern for immunology and bioinformatics in 2019/2020 and Eastern Africa Network for Bioinformatics Training for her extraordinary commitment to work and she was awarded with a scholarship for a master’s in science in bioinformatics at Makerere University. She has worked in the bioinformatics industry for one year, gaining experience in data management, data analysis, big data, and genomics. As a seasoned Bioinformatics specialist, she is passionate about advancing in research and technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
